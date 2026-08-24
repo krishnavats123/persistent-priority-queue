@@ -1,7 +1,12 @@
 [
   {
-    "id": "a09ad6fc-448d-496d-ae10-7aad7ecf5369",
+    "id": "44340af4-8dc4-41bb-b025-98e986426ee1",
     "value": "Task A",
     "priority": 5
+  },
+  {
+    "id": "96bdce5d-33eb-40a7-bc84-2c60e7be05af",
+    "value": "Task B",
+    "priority": 2
   }
 ]
