@@ -1,0 +1,5 @@
+# No external dependencies required
+# This project uses only Python standard library
+
+# Optional: for enhanced test output
+# pytest>=7.0.0
